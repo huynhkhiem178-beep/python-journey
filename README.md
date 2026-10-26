@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,18:3B0000,42:9B0000,68:FF3C00,100:FFD700&height=300&section=header&text=PYTHON%20JOURNEY&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=LOCK%20%E2%80%A2%20LOAD%20%E2%80%A2%20CODE%20%E2%80%A2%20LEVEL%20UP&descAlignY=61&descSize=18&stroke=FFFFFF&strokeWidth=1" alt="Animated fiery gaming-style Python Journey banner" width="100%" />
+  <img src="assets/python-journey-fire-banner.svg" alt="Custom animated fire and sparks Python Journey gaming banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=1500&pause=550&color=FF3C00&center=true&vCenter=true&width=760&lines=%F0%9F%8E%AF+TARGET+LOCKED...;%E2%9A%A1+INITIALIZING+CODE+ENGINE;%F0%9F%92%A5+RUN+%E2%86%92+TEST+%E2%86%92+DEBUG;%F0%9F%94%A5+MISSION%3A+LEVEL+UP" alt="Animated typing gaming HUD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1100&pause=350&color=FF3C00&center=true&vCenter=true&width=850&lines=%F0%9F%94%A5+SYSTEM+OVERDRIVE;%E2%9A%A1+COMPILE.+FIRE.+REPEAT.;%F0%9F%92%A5+BUGS+DETECTED%3F+ELIMINATE.;%F0%9F%8E%AF+MISSION+STATUS%3A+LEVELING+UP" alt="Animated high-energy coding status" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HP-100%25-FF3030?style=for-the-badge&logo=heart&logoColor=white" alt="Decorative HP HUD" />
-  <img src="https://img.shields.io/badge/AMMO-CODE-FF6A00?style=for-the-badge&logo=target&logoColor=white" alt="Decorative code ammo HUD" />
-  <img src="https://img.shields.io/badge/MISSION-15%20WEEKS-FFD700?style=for-the-badge&logo=checkmarx&logoColor=black" alt="15 week mission" />
-  <a href="https://github.com/huynhkhiem178-beep/python-journey/stargazers"><img src="https://img.shields.io/github/stars/huynhkhiem178-beep/python-journey?style=for-the-badge&logo=github&label=STARS&color=7C3AED" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/badge/⚡_POWER-OVERDRIVE-FF2400?style=for-the-badge&labelColor=090909" alt="Power overdrive" />
+  <img src="https://img.shields.io/badge/🔥_FIRE-MODE-FF6A00?style=for-the-badge&labelColor=090909" alt="Fire mode" />
+  <img src="https://img.shields.io/badge/🎯_MISSION-15_WEEKS-FFD700?style=for-the-badge&labelColor=090909" alt="15 week mission" />
 </p>
 
 <p align="center">
