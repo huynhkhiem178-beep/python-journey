@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=240&section=header&text=Python%20Journey&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Learn%20%E2%86%92%20Build%20%E2%86%92%20Test%20%E2%86%92%20Improve&descAlignY=60&descSize=17" alt="Animated Python Journey banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:180000,25:8B0000,50:FF2D00,75:FF7A00,100:FFD000&height=280&section=header&text=Python%20Journey%20%F0%9F%94%A5&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=CODE%20%E2%80%A2%20TEST%20%E2%80%A2%20DEBUG%20%E2%80%A2%20LEVEL%20UP&descAlignY=60&descSize=18" alt="Fiery animated Python Journey banner" width="100%" />
 </p>
 
 <p align="center">
