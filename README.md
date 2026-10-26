@@ -36,25 +36,29 @@
 
 ## ✨ Hành trình học
 
-> **Learn → Build → Test → Debug → Improve → Commit → Prove**
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
+
+> **🔥 Learn → 🛠️ Build → 🧪 Test → 🐞 Debug → 🚀 Improve → 📦 Commit → 🎯 Prove**
 
 Python Journey không chỉ dạy cú pháp. Mỗi chủ đề đưa bạn qua một vòng thực hành: hiểu vấn đề, viết code, kiểm tra kết quả, sửa lỗi và giải thích được cách chương trình hoạt động.
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: 1px solid #ff6a00;">
       <h3>📘 Learn</h3>
       Hiểu khái niệm
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: 1px solid #ff6a00;">
       <h3>🛠️ Build</h3>
       Tự viết chương trình
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: 1px solid #ff6a00;">
       <h3>🧪 Test</h3>
       Kiểm tra hành vi
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border: 1px solid #ff6a00;">
       <h3>🚀 Improve</h3>
       Debug và cải tiến
     </td>
@@ -66,6 +70,10 @@ Python Journey không chỉ dạy cú pháp. Mỗi chủ đề đưa bạn qua m
 Sau 15 tuần, bạn có thể xây dựng một chương trình Python nhỏ có cấu trúc rõ ràng, xử lý lỗi, có kiểm thử, được quản lý bằng Git/GitHub và có thể tự tin trình bày cách nó hoạt động.
 
 ## 🧭 Vị trí trong lộ trình
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
 
 ```text
 CocAgent Python Learning Path
@@ -81,8 +89,12 @@ CocAgent Python Learning Path
 
 ## 🗺️ Lộ trình 15 tuần
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
+
 <details open>
-<summary><strong>Giai đoạn 1 — Khởi đầu (Tuần 01–03)</strong></summary>
+<summary><strong>🔥 GIAI ĐOẠN 1 — KHỞI ĐẦU (TUẦN 01–03)</strong></summary>
 
 | Tuần | Chủ đề | Kết quả thực hành |
 |:---:|---|---|
@@ -92,7 +104,7 @@ CocAgent Python Learning Path
 </details>
 
 <details>
-<summary><strong>Giai đoạn 2 — Dữ liệu & tư duy chương trình (Tuần 04–08)</strong></summary>
+<summary><strong>⚡ GIAI ĐOẠN 2 — DỮ LIỆU & TƯ DUY CHƯƠNG TRÌNH (TUẦN 04–08)</strong></summary>
 
 | Tuần | Chủ đề | Kết quả thực hành |
 |:---:|---|---|
@@ -110,7 +122,7 @@ Tổng hợp kiến thức W01–W08 thành một chương trình console có c�
 </details>
 
 <details>
-<summary><strong>Giai đoạn 3 — Viết chương trình đáng tin cậy (Tuần 10–14)</strong></summary>
+<summary><strong>💥 GIAI ĐOẠN 3 — VIẾT CHƯƠNG TRÌNH ĐÁNG TIN CẬY (TUẦN 10–14)</strong></summary>
 
 | Tuần | Chủ đề | Kết quả thực hành |
 |:---:|---|---|
@@ -139,6 +151,10 @@ Xây dựng chương trình Python hoàn chỉnh với:
 
 ## 🧠 Bạn sẽ học được gì?
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
+
 - Viết chương trình với biến, điều kiện, vòng lặp và hàm.
 - Chọn và sử dụng `list`, `tuple`, `dict`, `set` phù hợp.
 - Xử lý chuỗi, file, CSV, JSON và đường dẫn bằng `pathlib`.
@@ -151,6 +167,10 @@ Xây dựng chương trình Python hoàn chỉnh với:
 - Hoàn thành capstone có code, tests, README và bằng chứng chạy được.
 
 ## 🏗️ Cấu trúc repository
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
 
 ```text
 python-journey/
@@ -187,6 +207,10 @@ README → notes/examples → exercises → self-check/tests → challenge → m
 
 ## 🧹 Chuẩn code
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
+
 Ví dụ một hàm nhỏ có tên rõ ràng, type hints và xử lý trường hợp danh sách rỗng:
 
 ```python
@@ -205,6 +229,10 @@ Nguyên tắc thực hành:
 - Viết test cho hành vi quan trọng.
 
 ## 🚀 Bắt đầu
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
 
 **1. Clone repository**
 
@@ -239,6 +267,10 @@ Mở thư mục [`weeks/week-01-hello-python/`](weeks/week-01-hello-python/) và
 
 ## 📚 Tài liệu
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
+
 | Tài liệu | Nội dung |
 |---|---|
 | [`SYLLABUS.md`](SYLLABUS.md) | Curriculum 15 tuần |
@@ -257,6 +289,10 @@ Mở thư mục [`weeks/week-01-hello-python/`](weeks/week-01-hello-python/) và
 </details>
 
 ## 🔭 Bước tiếp theo
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
+</p>
 
 Python Journey tập trung vào câu hỏi:
 
