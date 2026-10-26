@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".48" stop-color="#240000"/><stop offset=".78" stop-color="#640900"/><stop offset="1" stop-color="#080808"/></linearGradient>
+    <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#ff2400"/><stop offset=".48" stop-color="#ff6a00"/><stop offset=".78" stop-color="#ffd000"/><stop offset="1" stop-color="#fff4a3"/></linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff8dc"/><stop offset=".35" stop-color="#ffcf4a"/><stop offset=".68" stop-color="#ff4b16"/><stop offset="1" stop-color="#fff1cc"/></linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ff4a12" stroke-opacity=".13" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M0 270 L210 215 L320 270 L480 220 L610 270 L760 210 L930 270 L1080 215 L1200 260 L1200 360 L0 360Z" fill="#ff2600" opacity=".16"/>
+  <g fill="url(#fire)" opacity=".8" filter="url(#soft)">
+    <ellipse cx="90" cy="290" rx="115" ry="28"><animate attributeName="ry" values="18;42;22;36;18" dur="1.7s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="1100" cy="290" rx="125" ry="30"><animate attributeName="ry" values="30;16;40;20;30" dur="1.9s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <g stroke="url(#fire)" stroke-linecap="round" filter="url(#glow)">
+    <path d="M-30 85 L185 45" stroke-width="3"><animate attributeName="opacity" values=".1;1;.2" dur=".7s" repeatCount="indefinite"/></path>
+    <path d="M15 130 L260 82" stroke-width="2"><animate attributeName="opacity" values=".8;.1;.8" dur="1.1s" repeatCount="indefinite"/></path>
+    <path d="M950 60 L1230 10" stroke-width="3"><animate attributeName="opacity" values=".2;1;.2" dur=".8s" repeatCount="indefinite"/></path>
+    <path d="M1010 112 L1225 70" stroke-width="2"><animate attributeName="opacity" values="1;.2;1" dur="1.3s" repeatCount="indefinite"/></path>
+    <path d="M-20 220 L150 185" stroke-width="2"><animate attributeName="opacity" values=".2;.9;.2" dur="1.4s" repeatCount="indefinite"/></path>
+    <path d="M1080 210 L1230 180" stroke-width="2"><animate attributeName="opacity" values=".9;.15;.9" dur="1s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#ffd45a" filter="url(#glow)">
+    <circle cx="135" cy="110" r="3"><animate attributeName="cy" values="110;65;110" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="225" cy="280" r="4"><animate attributeName="cx" values="225;275;225" dur=".9s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="145" r="3"><animate attributeName="cy" values="145;90;145" dur="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="270" r="4"><animate attributeName="cx" values="1090;1040;1090" dur="1s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="70" r="2"><animate attributeName="opacity" values="0;1;0" dur=".8s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="85" r="3"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(70 175)" filter="url(#glow)">
+    <path d="M0 0 L36 -18 L18 0 L36 18Z" fill="#ff3900"><animateTransform attributeName="transform" type="translate" values="0 0;18 -4;0 0" dur=".6s" repeatCount="indefinite"/></path>
+    <path d="M0 0 L-24 -24 L-14 0 L-24 24Z" fill="#ffd000"/>
+  </g>
+  <g transform="translate(1125 175)" filter="url(#glow)">
+    <path d="M0 0 L-36 -18 L-18 0 L-36 18Z" fill="#ff3900"><animateTransform attributeName="transform" type="translate" values="0 0;-18 4;0 0" dur=".55s" repeatCount="indefinite"/></path>
+    <path d="M0 0 L24 -24 L14 0 L24 24Z" fill="#ffd000"/>
+  </g>
+  <path d="M110 38 H260 M940 38 H1090 M110 322 H260 M940 322 H1090" stroke="#ff4b12" stroke-width="2" opacity=".8"/>
+  <path d="M100 50 L100 85 M1100 50 L1100 85 M100 275 L100 310 M1100 275 L1100 310" stroke="#ffd34a" stroke-width="3"/>
+  <text x="600" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="8" fill="#ffb347">[ SYSTEM ONLINE ]</text>
+  <text x="600" y="213" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="64" font-weight="900" letter-spacing="2" fill="url(#title)" stroke="#541000" stroke-width="2" paint-order="stroke" filter="url(#glow)">PYTHON JOURNEY</text>
+  <text x="600" y="253" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5" fill="#fff2d1">CODE  /  TEST  /  DEBUG  /  DOMINATE</text>
+  <g transform="translate(600 292)" font-family="monospace" font-size="12" fill="#ff7b32" text-anchor="middle">
+    <text x="0" y="0">MISSION 015  •  BUILD YOUR SKILLS  •  NO BUGS LEFT BEHIND</text>
+  </g>
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="none" stroke="#ff5a1f" stroke-width="2" opacity=".85"/>
+  <rect x="8" y="8" width="1184" height="344" rx="15" fill="none" stroke="#ffd45a" stroke-width=".7" opacity=".5"/>
+</svg>
