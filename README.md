@@ -65,6 +65,10 @@ Python Journey không chỉ dạy cú pháp. Mỗi chủ đề đưa bạn qua m
   </tr>
 </table>
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
 ### 🎯 Mục tiêu cuối khóa
 
 Sau 15 tuần, bạn có thể xây dựng một chương trình Python nhỏ có cấu trúc rõ ràng, xử lý lỗi, có kiểm thử, được quản lý bằng Git/GitHub và có thể tự tin trình bày cách nó hoạt động.
@@ -103,6 +107,10 @@ CocAgent Python Learning Path
 | 03 | Conditionals · Boolean · Input validation | Ra quyết định và kiểm tra input |
 </details>
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
 <details>
 <summary><strong>⚡ GIAI ĐOẠN 2 — DỮ LIỆU & TƯ DUY CHƯƠNG TRÌNH (TUẦN 04–08)</strong></summary>
 
@@ -115,11 +123,19 @@ CocAgent Python Learning Path
 | 08 | Dict · Set · Nested data · Data modeling | Word/Data Counter |
 </details>
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
 <details>
 <summary><strong>🏆 Tuần 09 — Midterm Project</strong></summary>
 
 Tổng hợp kiến thức W01–W08 thành một chương trình console có cấu trúc. Trọng tâm: phân rã vấn đề, tổ chức dữ liệu, viết hàm, quản lý Git history và giải thích code.
 </details>
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
 
 <details>
 <summary><strong>💥 GIAI ĐOẠN 3 — VIẾT CHƯƠNG TRÌNH ĐÁNG TIN CẬY (TUẦN 10–14)</strong></summary>
@@ -132,6 +148,10 @@ Tổng hợp kiến thức W01–W08 thành một chương trình console có c�
 | 13 | Modules · Packages · Dependencies · CLI · API/HTTP | Chương trình nhiều module và API cơ bản |
 | 14 | OOP Essentials · Composition · Basic inheritance | Mô hình hóa bằng class khi phù hợp |
 </details>
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
 
 <details>
 <summary><strong>🎓 Tuần 15 — Capstone Project</strong></summary>
@@ -148,6 +168,10 @@ Xây dựng chương trình Python hoàn chỉnh với:
 
 📄 Yêu cầu chính thức: [`FINAL_PROJECT.md`](FINAL_PROJECT.md).
 </details>
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
 
 ## 🧠 Bạn sẽ học được gì?
 
@@ -234,14 +258,14 @@ Nguyên tắc thực hành:
   <img src="assets/fire-divider.svg" alt="Animated fire divider" width="100%" />
 </p>
 
-**1. Clone repository**
+🔥 **1. Clone repository**
 
 ```bash
 git clone https://github.com/huynhkhiem178-beep/python-journey.git
 cd python-journey
 ```
 
-**2. Cài đặt môi trường**
+⚡ **2. Cài đặt môi trường**
 
 Mở [`SETUP.md`](SETUP.md) và làm theo hướng dẫn dành cho hệ điều hành của bạn.
 
@@ -261,7 +285,11 @@ cat SETUP.md
 ```
 </details>
 
-**3. Bắt đầu học**
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
+🚀 **3. Bắt đầu học**
 
 Mở thư mục [`weeks/week-01-hello-python/`](weeks/week-01-hello-python/) và làm theo README của tuần đầu tiên.
 
@@ -288,6 +316,10 @@ Mở thư mục [`weeks/week-01-hello-python/`](weeks/week-01-hello-python/) và
 - [Hàm và phân rã vấn đề](assets/Story-07-%20Hàm.md)
 </details>
 
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
 ## 🔭 Bước tiếp theo
 
 <p align="center">
@@ -300,10 +332,16 @@ Python Journey tập trung vào câu hỏi:
 
 Sau khóa này, bạn có thể tiếp tục với Python Mastery, DSA with Python hoặc Data Python. Các chủ đề như decorators nâng cao, generators chuyên sâu, advanced typing, concurrency/asyncio, architecture và profiling được dành cho các khóa chuyên sâu hơn.
 
+
+
+<p align="center">
+  <img src="assets/fire-divider.svg" alt="Animated inferno flame divider" width="100%" />
+</p>
+
 ---
 
 <p align="center">
-  <strong>Learn it. Build it. Test it. Understand it. Improve it.</strong>
+  <strong>🔥 Learn it. Build it. Test it. Understand it. Improve it.</strong>
   <br />
   <sub>Tiến bộ từng bước — mỗi tuần một kỹ năng mới.</sub>
 </p>
