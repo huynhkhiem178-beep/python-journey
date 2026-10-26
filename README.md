@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Python Journey banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=240&section=header&text=Python%20Journey&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Learn%20%E2%86%92%20Build%20%E2%86%92%20Test%20%E2%86%92%20Improve&descAlignY=60&descSize=17" alt="Animated Python Journey banner" width="100%" />
 </p>
 
 <p align="center">
